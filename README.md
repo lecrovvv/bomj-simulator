@@ -1,5 +1,5 @@
 
-## Автор
+## Contributors
 
 - [@resweirdoo](https://www.github.com/resweirdoo) (Код, идея)
 - [@setscript](https://www.github.com/setscript) (Художник)
